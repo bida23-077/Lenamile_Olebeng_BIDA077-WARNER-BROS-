@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "mtec22-004"]
+	url = https://github.com/mtec22-004/mtec22-004.git
+	fetch = +refs/heads/*:refs/remotes/mtec22-004/*
